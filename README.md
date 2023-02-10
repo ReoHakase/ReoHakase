@@ -1,7 +1,3 @@
-### はろー 👋
-
-\#kosen20s
-
 <!--
 **ReoHakase/ReoHakase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,6 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### こんにちは 👋 \#kosen20s
+
+![Hero](https://user-images.githubusercontent.com/16751535/218005433-c174d8ba-e0ca-4c2b-b8b5-8415e616d942.png)
 
 [![ReoHakase's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReoHakase)](https://github.com/anuraghazra/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=ReoHakase)](https://github.com/ryo-ma/github-profile-trophy)
