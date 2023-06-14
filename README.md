@@ -15,6 +15,16 @@ Here are some ideas to get you started:
 
 # Hi there 👋 \#kosen20s
 
+'04 | 🧪INTP-T | フロントエンドと自然言語処理がすきな情報系の高専4年生です;
+
+国際交流にも興味があって、学内の英会話サークル[ELSAC](https://elsac.club/)に所属しています！
+
+- [x] TOEIC IP L&R 955
+- [x] 2022.12 🇹🇭 TJ-GPH2022 Winner
+- [ ] 2023.9 🇰🇷 朝鮮理工大にインターン予定
+
+React, Typescript, Next 13, Tailwind CSS, Radix UI, Framer Motion, Figma, Unity, Python, Cがﾁｮｯﾄわかります
+
 |![](https://github-readme-stats.vercel.app/api?username=ReoHakase&theme=dark&hide_border=true&include_all_commits=false&count_private=false)|![](https://github-readme-streak-stats.herokuapp.com/?user=ReoHakase&theme=dark&hide_border=true)|
 | :---: | :---: |
 
