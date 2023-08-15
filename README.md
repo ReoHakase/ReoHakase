@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 国際交流にも興味があって、学内の英会話サークル[ELSAC](https://elsac.club/)に所属しています！
 
 - [x] 2022.12 🇹🇭 TJ-GPH2022 Winner
-- [x] 2023.4 📝 TOEIC IP L&R 955
+- [x] 2023.7 📝 TOEIC L&R 950 [Certificate](https://iibc.cloudcerts.jp/viewer/cert/5aJemlWBgNAqgu68NgOA5VmIbVAVQ8JR2LBEEoblz0YKCvnjZ55nXNfxjV0xvxJo)
 - [ ] 2023.9 🇰🇷 朝鮮理工大にインターン予定
 
 React, Typescript, Next 13, Tailwind CSS, Radix UI, Framer Motion, Figma, Unity, Python, Cがﾁｮｯﾄわかります
