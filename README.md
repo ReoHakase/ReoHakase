@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 
 - [x] 2022.12 🇹🇭 Thailand-Japan Game Programming Hackathon 2022 で Winner Prize を獲得 [記事](https://www.ibaraki-ct.ac.jp/info/archives/59235)
 - [x] 2023.7 📝 TOEIC L&R 950 を取得 [Official Score Certificate](https://iibc.cloudcerts.jp/viewer/cert/5aJemlWBgNAqgu68NgOA5VmIbVAVQ8JR2LBEEoblz0YKCvnjZ55nXNfxjV0xvxJo)
+- [x] 2023.8 🎉 高専コミュニティ Kloud Hackathon #3 で [SHELFREE](https://github.com/nitic-pbl-p4/shelfree) で デザイン賞 を受賞 [記事](https://kloud.community/news/kloud-hackathon-3) 
 - [x] 2023.9 🇰🇷 朝鮮理工大学校に短期滞在 [記事(韓国語)](http://jndn.com/article.php?aid=1693879211368862007)
 - [x] 2024.3 🎙️ 情報処理学会シンポジウム [INTERACTION 2024](https://www.interaction-ipsj.org/2024/) で [Locker.ai](https://github.com/nitic-pbl-p8/lockerai) を 登壇・デモ発表
 
