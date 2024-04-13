@@ -27,6 +27,12 @@ Here are some ideas to get you started:
 
 React, Typescript, Next 14, Tailwind CSS, Radix UI, Framer Motion, Figma, Unity, Python, Cを使ったことがあります。
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,java,python,typescript,nextjs,tailwind,elysia,prisma,postgres,git,docker,raspberrypi,arduino,unity,figma" />
+  </a>
+</p>
+
 |![](https://github-readme-stats.vercel.app/api?username=ReoHakase&theme=dark&hide_border=true&include_all_commits=false&count_private=false)|![](https://github-readme-streak-stats.herokuapp.com/?user=ReoHakase&theme=dark&hide_border=true)|
 | :---: | :---: |
 
