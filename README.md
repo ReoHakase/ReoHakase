@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 - [x] 2024.9 🇦🇺 [Tafe Queensland](https://tafeqld.edu.au/) で [General English Course \(Advanced, CEFR C1\)](https://tafeqld.edu.au/course/18/18233/general-english) を受講
 - [ ] 2025.3 🎓 [茨城工業高等専門学校](https://www.ibaraki-ct.ac.jp/) 国際創造工学科 情報系 を卒業見込み
 - [ ] 2025.4 🌸 [京都工芸繊維大学](https://www.kit.ac.jp/) 工芸科学部 設計工学域 情報工学課程 に3年次編入学予定 [合格通知書](https://github.com/ReoHakase/ReoHakase/blob/main/%E5%90%88%E6%A0%BC%E9%80%9A%E7%9F%A5%E6%9B%B8_186005_%EF%BC%93%E5%B9%B4%E6%AC%A1%E7%B7%A8%E5%85%A5%E5%AD%A6%E8%A9%A6%E9%A8%93%EF%BC%88%E6%8E%A8%E8%96%A6%EF%BC%89_%E6%83%85%E5%A0%B1%E5%B7%A5%E5%AD%A6%E8%AA%B2%E7%A8%8B.pdf)
+- [ ] 2025.5 🏦 [DCON2025](https://dcon.ai/teams/) ディープラーニング × ハードウェア 高専生による事業創出コンテスト に本戦出場予定 (95チーム中10位以上) [記事](https://dcon.ai/news/20250220001/)
 
 React, Typescript, Next 14, Tailwind CSS, Radix UI, Framer Motion, Figma, Unity, Python, Cを使ったことがあります。
 
