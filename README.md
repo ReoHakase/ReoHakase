@@ -13,11 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there 👋 \#kosen20s
-
-'04 | 🧪INTP-T | フロントエンドと自然言語処理がすきな情報系の高専5年生です。
-
-国際交流にも興味があって、学内の英会話サークル[ELSAC](https://elsac.club/)に所属しています。
+<div align="center">
+  <h1>略歴</h1>
+</div>
 
 - [x] 2022.12 🇹🇭 Thailand-Japan Game Programming Hackathon 2022 で Winner Prize を獲得 [記事](https://www.ibaraki-ct.ac.jp/info/archives/59235)
 - [x] 2023.7 📝 TOEIC L&R 950 を取得 [Official Score Certificate](https://iibc.cloudcerts.jp/viewer/cert/5aJemlWBgNAqgu68NgOA5VmIbVAVQ8JR2LBEEoblz0YKCvnjZ55nXNfxjV0xvxJo)
@@ -30,6 +28,10 @@ Here are some ideas to get you started:
 - [ ] 2025.3 🎓 [茨城工業高等専門学校](https://www.ibaraki-ct.ac.jp/) 国際創造工学科 情報系 を卒業見込み
 - [ ] 2025.4 🌸 [京都工芸繊維大学](https://www.kit.ac.jp/) 工芸科学部 設計工学域 情報工学課程 に3年次編入学予定 [合格通知書](https://github.com/ReoHakase/ReoHakase/blob/main/%E5%90%88%E6%A0%BC%E9%80%9A%E7%9F%A5%E6%9B%B8_186005_%EF%BC%93%E5%B9%B4%E6%AC%A1%E7%B7%A8%E5%85%A5%E5%AD%A6%E8%A9%A6%E9%A8%93%EF%BC%88%E6%8E%A8%E8%96%A6%EF%BC%89_%E6%83%85%E5%A0%B1%E5%B7%A5%E5%AD%A6%E8%AA%B2%E7%A8%8B.pdf)
 - [ ] 2025.5 🏦 [DCON2025](https://dcon.ai/teams/) ディープラーニング × ハードウェア 高専生による事業創出コンテスト に本戦出場予定 (95チーム中10位以上) [記事](https://dcon.ai/news/20250220001/)
+
+<div align="center">
+  <h1>技能</h1>
+</div>
 
 React, Typescript, Next 14, Tailwind CSS, Radix UI, Framer Motion, Figma, Unity, Python, Cを使ったことがあります。
 
