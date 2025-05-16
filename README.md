@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - [x] 2024.9 🇦🇺 [Tafe Queensland](https://tafeqld.edu.au/) で [General English Course \(Advanced, CEFR C1\)](https://tafeqld.edu.au/course/18/18233/general-english) を受講
 - [x] 2025.3 🎓 [茨城工業高等専門学校](https://www.ibaraki-ct.ac.jp/) 国際創造工学科 情報系 を卒業 (卒業論文: 「事前学習済み言語モデルの隠れ状態を用いた視線計測コーパスの Bi-LSTM 予測モデル」)
 - [x] 2025.4 🌸 [京都工芸繊維大学](https://www.kit.ac.jp/) 工芸科学部 設計工学域 情報工学課程 に3年次編入学
-- [x] 2025.5 🏦 JDLA,NHK主催 [DCON2025](https://dcon.ai/teams/) に本戦出場 (95チーム中 5位, トピー工業賞, 日立産業制御ソリューションズ賞, Quick賞) [記事](https://dcon.ai/news/20250510001/)
+- [x] 2025.5 🏦 JDLA, NHK主催 [DCON2025](https://dcon.ai/teams/) に本戦出場 (95チーム中 5位, トピー工業賞, 日立産業制御ソリューションズ賞, Quick賞) [記事1(dcon.ai)](https://dcon.ai/news/20250510001/) [記事2(ibaraki-ct.ac.jp)](https://www.ibaraki-ct.ac.jp/info/archives/75810)
 
 <div align="center">
   <h1>技能</h1>
