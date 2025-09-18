@@ -17,6 +17,11 @@ Here are some ideas to get you started:
   <h1>略歴</h1>
 </div>
 
+| ![](https://github.com/user-attachments/assets/3ec1ee81-c160-4bf5-affd-025a2306db71) | ![](https://github.com/user-attachments/assets/8e073014-8d59-4fcc-927f-2edd595e6b2e) |
+| :---: | :---: |
+
+[→ Canvaで自己紹介スライドを見る](https://www.canva.com/design/DAGzHk_6FXs/caM2dnov6KD0NxFZ8_0kMQ/view?utlId=h3931c1b7d5#1)
+
 - [x] 2022.12 🇹🇭 Thailand-Japan Game Programming Hackathon 2022 で Winner Prize を獲得 [記事](https://www.ibaraki-ct.ac.jp/info/archives/59235)
 - [x] 2023.7 📝 TOEIC L&R 950 (L490,R460) を取得 [Official Score Certificate](https://iibc.cloudcerts.jp/viewer/cert/5aJemlWBgNAqgu68NgOA5VmIbVAVQ8JR2LBEEoblz0YKCvnjZ55nXNfxjV0xvxJo)
 - [x] 2023.8 🎉 高専コミュニティ Kloud Hackathon #3 で [SHELFREE](https://github.com/nitic-pbl-p4/shelfree) で デザイン賞 を受賞 [記事](https://kloud.community/Report/kloud-hackathon-3) 
