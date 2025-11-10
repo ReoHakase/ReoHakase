@@ -34,7 +34,8 @@ Here are some ideas to get you started:
 - [x] 2025.4 🌸 [京都工芸繊維大学](https://www.kit.ac.jp/) 工芸科学部 設計工学域 情報工学課程 に3年次編入学
 - [x] 2025.5 🏦 JDLA, NHK主催 [DCON2025](https://dcon.ai/teams/) に本戦出場 (95チーム中 5位, トピー工業賞, 日立産業制御ソリューションズ賞, Quick賞) [記事1(dcon.ai)](https://dcon.ai/news/20250510001/) [記事2(ibaraki-ct.ac.jp)](https://www.ibaraki-ct.ac.jp/info/archives/75810)
 - [x] 2025.6 📝 TOEIC L&R 955 (L475,R480) を取得 [Official Score Certificate](https://iibc.cloudcerts.jp/viewer/cert/5aJemlWBgNAqgu68NgOA5VmIbVAVQ8JRnMv07Bgeaql7FmKBNmY50Ahgl0n2QWLb)
-- [ ] 2025.8 💼 [株式会社プレイド](https://plaid.co.jp/) サマーインターン (Developer Experience and Performance Team, 1ヶ月)に参加 [記事](https://tech.plaid.co.jp/summer-intern-monorepo-dx)
+- [x] 2025.8 💼 [株式会社プレイド](https://plaid.co.jp/) サマーインターン (Developer Experience and Performance Team, 1ヶ月)に参加 [記事](https://tech.plaid.co.jp/summer-intern-monorepo-dx)
+- [x] 2025.11 📝 TOEFL iBT 86 を取得
 
 <div align="center">
   <h1>技能</h1>
